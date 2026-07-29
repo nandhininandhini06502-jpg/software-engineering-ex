@@ -1,2 +1,1 @@
-# software-engineering-ex
-software engineering lab
+Updated in main branch.
